@@ -1,0 +1,8 @@
+applications:
+- path: C:\Dev\DO RI ME\1\DemoApp
+ memory: 512M
+ instances: 1
+ domain: mybluemix.net
+ name: DemoApp
+ host: DemoApp
+ disk_quota: 256M
